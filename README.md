@@ -486,7 +486,7 @@ Software Engineer
 Data Analysis Enthusiast  
 Problem Solver  
 
-GitHub: [@miniSOWAD](https://github.com/miniSOWAD)
+GitHub: [@lija003](https://github.com/lija003)
 
 ---
 
