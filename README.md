@@ -1,4 +1,10 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,100:0072ff&text=Data%20Cleaning&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Professional%20Data%20Cleaning%20%26%20Preprocessing%20with%20Python&descAlignY=60)
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Data%20Cleaning&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Professional%20Data%20Cleaning%20and%20Preprocessing%20with%20Python&descAlignY=60"
+    alt="Data Cleaning and Preprocessing Banner"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=22C55E&center=true&vCenter=true&width=900&lines=Clean+Reliable+Analysis-Ready+Data;15+Data+Quality+Problems+Solved;Built+with+Python+Pandas+NumPy+and+Jupyter" alt="Typing SVG" />
