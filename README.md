@@ -480,9 +480,9 @@ docs: add final validation and project README
 
 # 👨‍💻 Author
 
-**Md Mahruf Alam**
+**Lija Moni**
 
-Software Engineer  
+Web Developer  
 Data Analysis Enthusiast  
 Problem Solver  
 
