@@ -480,13 +480,13 @@ docs: add final validation and project README
 
 # 👨‍💻 Author
 
-**Md Mahruf Alam**
+**Lija Moni**
 
-Software Engineer  
+Web Developer  
 Data Analysis Enthusiast  
 Problem Solver  
 
-GitHub: [@miniSOWAD](https://github.com/miniSOWAD)
+GitHub: [@lija003](https://github.com/miniSOWAD)
 
 ---
 
